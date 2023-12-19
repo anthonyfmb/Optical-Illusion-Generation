@@ -1,0 +1,11 @@
+# Type
+# Iterations
+# Size of line
+# Size of circle
+# Color Contrast Intensity
+
+1
+8
+1.0
+1.4
+1.0

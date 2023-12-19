@@ -1,0 +1,18 @@
+# Type
+# Iterations
+# Size
+# Angle
+# Layers
+# Split 1
+# Size 1
+# ...
+# Split n
+# Size n
+
+3
+5
+1.0
+0
+1
+-1
+1.0

@@ -1,0 +1,11 @@
+# Type
+# Iterations
+# Size
+# Color Contrast Intensity (Hue)
+# Angle
+
+2
+25
+1.0
+0.7
+30
